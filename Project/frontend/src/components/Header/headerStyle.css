@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap");
+
+.heading {
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.heddingContainer {
+  margin-top: 20px;
+  font-family: "Lato", sans-serif;
+}

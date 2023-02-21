@@ -1,0 +1,83 @@
+.OtherIncomeAddForm {
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.ViewOtherIncomeTable {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+/* .UpdateIncomeAddForm {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+} */
+
+.tableOI {
+  width: 1000px;
+}
+
+.oidprintMain {
+  position: relative;
+  margin: 20px;
+  padding: 10px;
+}
+
+.compdetails {
+  position: relative;
+  float: right;
+}
+
+.bpayeedetails {
+  position: relative;
+  float: left;
+  margin-top: 100px;
+}
+
+.bpayeeTable {
+  margin-top: 250px;
+  height: 300px;
+}
+
+.printFormOut {
+  margin-top: 50px;
+  outline-style: solid;
+  outline-color: rgb(39, 39, 39);
+  padding: 10px;
+}
+.contentBD{
+  padding: 10px;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 1px;
+ margin-bottom: 1px;
+}
+.content{
+  padding: 10px;
+  justify-content: center;
+  margin-left: 60px;
+  margin-right: 10px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.H2{
+
+justify-content: center;
+margin-left: 153px;
+
+}
+.H1{
+
+justify-content: center;
+margin-left: 52px;
+
+}

@@ -1,0 +1,51 @@
+.OtherExpenAddForm {
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.ViewOtherExpenTable {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.UpdateOtherExpenAddForm {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.billPrintOut {
+  position: relative;
+  margin: 20px;
+  padding: 10px;
+}
+
+.printFormBill {
+  margin-top: 50px;
+  outline-style: solid;
+  outline-color: black;
+  padding: 10px;
+}
+
+.compdetails {
+  position: relative;
+  float: right;
+}
+
+.billcusdetails {
+  position: relative;
+  float: left;
+  margin-top: 100px;
+}
+
+.billprinttable {
+  margin-top: 250px;
+  height: 300px;
+}

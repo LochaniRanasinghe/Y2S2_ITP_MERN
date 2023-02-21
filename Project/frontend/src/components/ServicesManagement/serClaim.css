@@ -1,0 +1,227 @@
+.OtherIncomeAddForm {
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.ViewOtherIncomeTable {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.UpdateIncomeAddForm {
+  margin-top: 50px;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.UpdateserAddForm{
+
+ margin-top: 40px;
+  margin-left: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 1250px;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+  rgba(0, 0, 0, 0.22) 0px 15px 12px;
+/* Glass one */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
+#button {
+  display: flex;
+  justify-content: flex-end;
+  height: 15px;
+  width: 190px;
+  margin-top: 1px;
+}
+
+#disabledSelect {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  width: 135px;
+  box-shadow: 0 0 3px 2px #cec7c759;
+  padding: 5px;
+  border-radius: 10;
+}
+#UpSubmit1 {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  width: 350px;
+  box-shadow: 0 0 3px 2px #cec7c759;
+  padding: 20px;
+  border-radius: 20px;
+  margin-left: 13px;
+}
+
+#UpSubmit2 {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  width: 350px;
+  box-shadow: 0 0 3px 2px #cec7c759;
+  padding: 20px;
+  border-radius: 20px;
+  margin-left: 150px;
+}
+
+#SerClaimSerch {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 600px;
+  box-shadow: 0 0 6px 3px #cec7c759;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.nav {
+  margin-top: 10px;
+  margin-left: 115px;
+  border-radius: 10px;
+  padding: 0px;  
+  margin-right: 10px;
+}
+.breadcrumb-arrow {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.breadcrumb-not-active {
+  color: #959595cb;
+}
+.breadcrumb-active {
+  color: #000000;
+}
+
+.Title{
+
+  justify-content: center;
+  display: flex;
+  color: #000000;
+  padding: 1px;
+  box-shadow: 0 0 1px 1px rgb(183, 116, 22);
+
+}
+.Alignment{
+
+margin-left: 43px;
+padding: 1px;
+color: #e71010;
+
+}
+.Content{
+
+margin-left: 63px;
+padding: 0px;
+color: #020767;
+
+}
+.toast {
+  
+    --bs-toast-padding-x: 1.5rem;
+    --bs-toast-padding-y: 2.5rem;
+    --bs-toast-max-width: 385px;
+    --bs-toast-font-size: 0.995rem;
+    --bs-toast-color: ;
+    --bs-toast-bg: rgb(230, 230, 230);
+    --bs-toast-border-width: 2px;
+    --bs-toast-border-radius: 0.475rem;
+    --bs-toast-box-shadow: 0 0.5rem 1rem rgba(150, 150, 150, 0.825);
+    --bs-toast-header-color: #000000;
+    --bs-toast-header-bg: rgba(255, 255, 255, 0.85);
+    --bs-toast-header-border-color: rgba(242, 8, 8, 0.76);
+    max-width: 100%;
+    background-clip: padding-box;
+}
+/* .ToastBC{
+
+display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 3px;
+  padding: 10px;  
+  margin-right: 10px;
+  padding: 10px;
+  box-shadow: 0 0 1px 1px rgb(28, 244, 57);
+}*/
+
+.Toast{
+
+  justify-content: right;
+  margin-left: 90px;
+  margin-right: 100px;
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+}
+
+.ndContent{
+
+ margin-left: 120px;
+
+}
+
+.Tostbtn{
+
+  justify-content: center;
+  margin-left: 142px;
+  margin-bottom: 10px;
+  padding: 10px;
+  height: 40px;
+  width: 90px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px 2px #cec7c759;
+  margin-top: 10px;
+}
+.retrivebtn{
+
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  width: 100px;
+  box-shadow: 0 0 3px 2px #cec7c759;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+[type="submit"]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    margin-left: 60px;
+}
+.Form{
+
+margin-top: 1px;
+  border-radius: 0px;
+  padding: 50px;
+  justify-content: center;
+  margin-left: 70px;
+  margin-right: 1px;
+
+}
+.JustifyModel1{
+  margin-right: 130px;
+  margin-left: 20px;
+ margin-top: 0px;
+}
+.JustifyModel2{
+  margin-left: 20px;
+   margin-right: 100px;
+  margin-top: 0px;
+}
